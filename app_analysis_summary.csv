@@ -1,0 +1,285 @@
+file|name|version|package|confidence|size_mb|methods_used
+1003 v1.0.ipa|bulletecho|7.4.0|com.zeptolab.bulletecho-enterprise|3|186.42|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+1005 v1.0.ipa|bulletecho|7.4.0|com.zeptolab.bulletecho-enterprise|3|186.42|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+1010 v1.0.ipa|Motor Clash|0.1.0|com.zeptolab.motor-clash|4|28.2|main_plist, plutil, alt_plist_2
+1014 v1.0.ipa|Fortress Pop|1.0.0|com.zeptolab.fortresspop|4|60.32|main_plist, plutil, alt_plist_2, alt_plist_3
+1013 v1.0.ipa|bulletecho|7.4.0|com.zeptolab.bulletecho-enterprise|3|170.98|main_plist, plutil, alt_plist_2, alt_plist_3
+1018 v1.0.ipa|Idle Tiny Hunters|0.2.2|com.zeptolab.idlerpg|4|52.67|main_plist, plutil, alt_plist_2, alt_plist_3
+1020 v1.0.ipa|bulletecho|7.4.0|com.zeptolab.bulletecho-enterprise|3|167.02|main_plist, plutil, alt_plist_2, alt_plist_3
+1006.apk|Bullet Echo|7.4.0|com.zeptolab.bulletecho.google.beta|3|422.52|aapt, aapt_resources, manifest
+1035 v1.0.ipa|Gear Drop Heroes|0.0.1|com.zeptolab.gdhero|4|70.11|main_plist, plutil, alt_plist_2
+1050 v1.0.ipa|Noodle Out|0.1.0|com.zeptolab.dragmeout|4|50.32|main_plist, plutil, alt_plist_2, alt_plist_3
+1052 v1.0.ipa|Noodle Out|0.1.0|com.zeptolab.dragmeout|4|50.33|main_plist, plutil, alt_plist_2, alt_plist_3
+1012.apk|Bullet Echo|7.4.0|com.zeptolab.bulletecho.google.beta|3|467.51|aapt, aapt_resources, manifest
+1021 v1.0.apk|bulletecho|i have|no fucking clue -cv|0|167.01|aapt, aapt_resources, manifest
+1055 v1.0.ipa|Neon Merge Guards|0.1.1|com.zeptolab.circledefender|4|73.46|main_plist, plutil, alt_plist_2
+1053.apk|Noodle Out|0.1.0|com.zeptolab.dragmeout|3|88.04|aapt, aapt_resources, manifest
+1078 v1.0.ipa|bulletecho|7.6.0|com.zeptolab.bulletecho-enterprise|3|167.67|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+1071.apk|Place Your People|1.0.0|com.zeptolab.placeyourpeople|3|164.84|aapt, aapt_resources, manifest
+1022.apk|Bullet Echo|7.4.0|com.zeptolab.bulletecho.google.beta|3|418.64|aapt, aapt_resources, manifest
+1074.apk|Place Your People|1.0.0|com.zeptolab.placeyourpeople|3|167.46|aapt, aapt_resources, manifest
+1087 v1.0.ipa|bulletecho|7.6.0|com.zeptolab.bulletecho-enterprise|3|167.67|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+1088 v1.0.ipa|bulletecho|7.6.0|com.zeptolab.bulletecho-enterprise|3|167.68|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+1089 v1.0.ipa|Tile Tint|0.1.0|com.zeptolab.ornament|4|57.0|main_plist, plutil, alt_plist_2, alt_plist_3
+1085.apk|HappyCouchBurglars|1.0.0|com.zeptolab.happycouchburglars|3|139.43|aapt, aapt_resources, manifest
+812.apk|Idle Racing|1.0.0|com.zeptolab.idleracing|3|42.14|aapt, aapt_resources, manifest
+796.apk|Fantasy Miner|1.0.0|com.zeptolab.fantasyminer|3|38.62|aapt, aapt_resources, manifest
+816.apk|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowdeddungeons|3|43.07|aapt, aapt_resources, manifest
+819.apk|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowdeddungeons|3|42.92|aapt, aapt_resources, manifest
+1086.apk|Bullet Echo|7.6.0|com.zeptolab.bulletecho.google.beta|3|428.27|aapt, aapt_resources, manifest
+1091.apk|Bullet Echo|7.6.0|com.zeptolab.bulletecho.google.beta|3|428.27|aapt, aapt_resources, manifest
+824.apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|51.38|aapt, aapt_resources, manifest
+826.apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|37.0|aapt, aapt_resources, manifest
+831.apk|Idle Art|1.0.0|com.zeptolab.idleart|3|137.3|aapt, aapt_resources, manifest
+832.apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|51.84|aapt, aapt_resources, manifest
+835.apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|46.49|aapt, aapt_resources, manifest
+854 v1.0.ipa|Overcrowded: Airplane|0.9.2|com.zeptolab.idleplane-enterprise|4|99.97|main_plist, plutil
+849 v1.0.ipa|Bullet Echo|6.7.0|com.zeptolab.bulletecho-enterprise|4|158.54|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+856 v1.0.ipa|Tiny Hunters|3.11.0|com.zeptolab.hunters|4|128.62|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+887.apk|draw-the-rope|1.0|com.zeptolab.drawtherope|3|21.26|aapt, aapt_resources, manifest
+890.apk|OmNomFarm|0.1.11|com.DefaultCompany.OmNomFarm|3|72.06|aapt, aapt_resources, manifest
+891 v1.0.ipa|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|4|260.12|main_plist, plutil
+893 v1.0.ipa|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|4|260.12|main_plist, plutil
+892 v1.0.ipa|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|4|260.12|main_plist, plutil
+894 v1.0.ipa|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|4|260.12|main_plist, plutil
+895 v1.0.ipa|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|4|260.12|main_plist, plutil
+896 v1.0.ipa|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|4|159.49|main_plist, plutil
+899.apk|Cowboy Valley|0.27.0|com.pantelisdev.cowboyvalley|3|181.69|aapt, aapt_resources, manifest
+908.apk|Steel Revolt|1.3|com.harrisleodev.steelrevolt|3|107.08|aapt, aapt_resources, manifest
+900.apk|Cowboy Valley|0.27.0|com.pantelisdev.cowboyvalley|3|181.69|aapt, aapt_resources, manifest
+920.apk|Zombillion Spin|0.0.1|com.zeptolab.billionsrealtime|3|45.83|aapt, aapt_resources, manifest
+956 v1.0.ipa|bulletecho|7.0.0|com.zeptolab.bulletecho-enterprise|3|177.59|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+943.apk|Cut the Rope: Origins Dev|0.18.0|com.zeptolab.ctrorigins|3|233.29|aapt, aapt_resources, manifest
+926.apk|Necro Horde|0.1.0|com.zeptolab.necrohorde|3|50.64|aapt, aapt_resources, manifest
+937.apk|Cut the Rope: Origins|0.18.0|com.zeptolab.ctrorigins|3|258.03|aapt, aapt_resources, manifest
+961.apk|BagMasters|0.0.1|com.zeptolab.bagmasters|3|47.2|aapt, aapt_resources, manifest
+974 v1.0.ipa|bulletecho|7.0.0|com.zeptolab.bulletecho-enterprise|3|178.69|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+965.apk|BagMasters|0.0.1|com.zeptolab.bagmasters|3|49.22|aapt, aapt_resources, manifest
+978 v1.0.ipa|bulletecho|7.0.0|com.zeptolab.bulletecho-enterprise|3|178.69|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+993 v1.0.ipa|Kaiten Sushi Merge Deluxe|0.1.0|com.zeptolab.sushimerge|4|42.67|main_plist, plutil
+990 v1.0.ipa|Slide Fortress|0.1.0|com.zeptolab.slide-fortress|4|24.77|main_plist, plutil
+995 v1.0.ipa|Sushi Merge Wasabi Rush|0.1.0|com.zeptolab.sushimerge|4|44.22|main_plist, plutil
+998 v1.0.ipa|bulletecho|7.4.0|com.zeptolab.bulletecho-enterprise|3|186.4|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+BagMasters v0.0.1 (1).ipa|BagMasters|0.0.1|com.zeptolab.bagmasters|4|19.2|main_plist, plutil, alt_plist_2
+975.apk|Bullet Echo|7.0.0|com.zeptolab.bulletecho.google.beta|3|409.72|aapt, aapt_resources, manifest
+BagMasters v0.0.1 (2).ipa|BagMasters|0.0.1|com.zeptolab.bagmasters|4|20.44|main_plist, plutil, alt_plist_2
+BagMasters v0.0.1 (3).ipa|BagMasters|0.0.1|com.zeptolab.bagmasters|4|20.44|main_plist, plutil, alt_plist_2
+BagMasters v0.0.1.ipa|BagMasters|0.0.1|com.zeptolab.bagmasters|4|19.57|main_plist, plutil, alt_plist_2
+BagMasters v0.0.1.apk|BagMasters|0.0.1|com.zeptolab.bagmasters|3|47.62|aapt, aapt_resources, manifest
+BigAdventure v1.0.ipa|BigAdventure|1.0|com.zeptolab.BigAdventure|4|64.71|main_plist, plutil
+999.apk|Cut the Rope: Origins RC|0.23.0|com.zeptolab.ctrorigins|3|237.96|aapt, aapt_resources, manifest
+BagMasters v0.0.1 (1).apk|BagMasters|0.0.1|com.zeptolab.bagmasters|3|49.22|aapt, aapt_resources, manifest
+BigAdventure v1.0.apk|BigAdventure|1.0|com.zeptodev.nibblenombigadventure|3|150.67|aapt, aapt_resources, manifest
+Bullet Echo v7.0.0 (1).apk|Bullet Echo|7.0.0|com.zeptolab.bulletecho.google.beta|3|409.72|aapt, aapt_resources, manifest
+Bullet Echo India_ Battle Royale v6.7.2.apk|Bullet Echo India: Battle Royale|6.7.2|com.krafton.bulletechoindia|3|359.87|aapt, aapt_resources, manifest
+Bullet Echo v6.7.0.apk|Bullet Echo|6.7.0|com.zeptolab.bulletecho.google.beta|3|359.94|aapt, aapt_resources, manifest
+Bullet Echo v7.4.0.apk|Bullet Echo|7.4.0|com.zeptolab.bulletecho.google.beta|3|422.51|aapt, aapt_resources, manifest
+Bullet Echo v7.4.0 (2).apk|Bullet Echo|7.4.0|com.zeptolab.bulletecho.google.beta|3|422.43|aapt, aapt_resources, manifest
+Bullet Echo v7.0.0.apk|Bullet Echo|7.0.0|com.zeptolab.bulletecho.google.beta|3|405.12|aapt, aapt_resources, manifest
+Bullet Echo v7.4.0 (1).apk|Bullet Echo|7.4.0|com.zeptolab.bulletecho.google.beta|3|467.51|aapt, aapt_resources, manifest
+Cargo Craze v1.0.0.apk|Cargo Craze|1.0.0|com.zeptolab.cargocraze|3|116.06|aapt, aapt_resources, manifest
+Bullet Echo v7.5.0.apk|Bullet Echo|7.5.0|com.zeptolab.bulletecho.google|3|425.89|aapt, aapt_resources, manifest
+Bullet Echo v7.6.0.apk|Bullet Echo|7.6.0|com.zeptolab.bulletecho.google.beta|3|428.24|aapt, aapt_resources, manifest
+Bullet Echo v7.6.0 (1).apk|Bullet Echo|7.6.0|com.zeptolab.bulletecho.google.beta|3|428.3|aapt, aapt_resources, manifest
+Cargo Craze v1.0.0.ipa|Cargo Craze|1.0.0|com.zeptolab.cargocraze|4|60.6|main_plist, plutil, alt_plist_2
+Cowboy Valley v0.26.0 (1).ipa|Cowboy Valley|0.26.0|com.zeptolab.cowboyvalley|4|111.69|main_plist, plutil, alt_plist_2
+Cowboy Valley v0.24.0.ipa|Cowboy Valley|0.24.0|com.zeptolab.cowboyvalley|4|142.36|main_plist, plutil, alt_plist_2
+Cowboy Valley v0.24.0.apk|Cowboy Valley|0.24.0|com.pantelisdev.cowboyvalley|3|166.87|aapt, aapt_resources, manifest
+Cowboy Valley v0.26.0 (2).ipa|Cowboy Valley|0.26.0|com.zeptolab.cowboyvalley|4|111.69|main_plist, plutil, alt_plist_2
+Cowboy Valley v0.26.0 (3).ipa|Cowboy Valley|0.26.0|com.zeptolab.cowboyvalley|4|111.69|main_plist, plutil, alt_plist_2
+Cowboy Valley v0.26.0.ipa|Cowboy Valley|0.26.0|com.zeptolab.cowboyvalley|4|111.69|main_plist, plutil, alt_plist_2
+Circle Defender v0.1.0.apk|Circle Defender|0.1.0|com.zeptolab.circledefender|3|105.72|aapt, aapt_resources, manifest
+Cozy City v0.0.1 (1).ipa|Cozy City|0.0.1|com.zeptolab.idlecity|4|31.84|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Cowboy Valley v0.27.0 (1).apk|Cowboy Valley|0.27.0|com.pantelisdev.cowboyvalley|3|181.69|aapt, aapt_resources, manifest
+Cozy City v0.0.1.apk|Cozy City|0.0.1|com.zeptolab.idlecity|3|55.44|aapt, aapt_resources, manifest
+Cowboy Valley v0.27.0 (2).apk|Cowboy Valley|0.27.0|com.pantelisdev.cowboyvalley|3|181.69|aapt, aapt_resources, manifest
+Cozy City v0.0.1.ipa|Cozy City|0.0.1|com.zeptolab.idlecity|4|31.84|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Cowboy Valley v0.27.0.apk|Cowboy Valley|0.27.0|com.pantelisdev.cowboyvalley|3|181.69|aapt, aapt_resources, manifest
+Cozy City v0.0.2.ipa|Cozy City|0.0.2|com.zeptolab.idlecity|4|32.38|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+crashtest v0.0.8.ipa|crashtest|0.0.8|com.zeptolab.crashtest|4|48.95|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+CTRNibbleAdventure v1.0.ipa|CTRNibbleAdventure|1.0|com.zeptolab.CTRNibbleAdventureGame|4|129.96|main_plist, plutil
+Cut the Rope 3 v1.3.0.ipa|Cut the Rope 3|1.3.0|com.zeptolab.ctr3|4|209.69|main_plist, plutil, alt_plist_2
+Cozy City v0.0.2.apk|Cozy City|0.0.2|com.zeptolab.idlecity|3|57.98|aapt, aapt_resources, manifest
+crashtest v0.0.8.apk|crashtest|0.0.8|com.zeptolab.crashtest|3|75.96|aapt, aapt_resources, manifest
+Cut the Rope Daily v1.10.0.ipa|Cut the Rope Daily|1.10.0|com.zeptolab.ctrdaily|4|217.28|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+CTRNibbleAdventure v1.0.apk|CTRNibbleAdventure|1.0|com.zeptolab.CTRNibbleAdventure|3|239.66|aapt, aapt_resources, manifest
+Cut the Rope Daily v1.11.0.ipa|Cut the Rope Daily|1.11.0|com.zeptolab.ctrdaily|4|236.02|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Cut the Rope Daily v1.12.0.ipa|Cut the Rope Daily|1.12.0|com.zeptolab.ctrdaily|4|231.74|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Cut the Rope Daily v1.10.0.apk|Cut the Rope Daily|1.10.0|com.zeptolab.ctrdaily|3|291.63|aapt, aapt_resources, manifest
+Cut the Rope Daily v1.6.0.ipa|Cut the Rope Daily|1.6.0|com.zeptolab.ctrdaily|4|171.58|main_plist, plutil, alt_plist_2, alt_plist_3
+Cut the Rope Daily v1.12.0.apk|Cut the Rope Daily|1.12.0|com.zeptolab.ctrdaily|3|317.45|aapt, aapt_resources, manifest
+Cut the Rope Daily v1.11.0.apk|Cut the Rope Daily|1.11.0|com.zeptolab.ctrdaily|3|316.43|aapt, aapt_resources, manifest
+Cut the Rope Daily v1.9.0.ipa|Cut the Rope Daily|1.9.0|com.zeptolab.ctrdaily|4|207.68|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Cut the Rope_ Origins Dev v10.18.0.ipa|Cut the Rope: Origins Dev|10.18.0|com.zeptolab.ctrorigins|4|172.53|main_plist, plutil
+Cut the Rope Daily v1.6.0.apk|Cut the Rope Daily|1.6.0|com.zeptolab.ctrdaily|3|257.9|aapt, aapt_resources, manifest
+Cut the Rope Daily v1.9.0.apk|Cut the Rope Daily|1.9.0|com.zeptolab.ctrdaily|3|259.34|aapt, aapt_resources, manifest
+Cut the Rope_ Origins Dev v0.18.0.apk|Cut the Rope: Origins Dev|0.18.0|com.zeptolab.ctrorigins|3|233.29|aapt, aapt_resources, manifest
+Cut the Rope_ Origins PTC v0.24.0.apk|Cut the Rope: Origins PTC|0.24.0|com.zeptolab.ctrorigins|3|240.7|aapt, aapt_resources, manifest
+Cut the Rope_ Origins PTC v0.25.0.apk|Cut the Rope: Origins PTC|0.25.0|com.zeptolab.ctrorigins|3|247.57|aapt, aapt_resources, manifest
+Cut the Rope_ Origins RC v0.18.0.apk|Cut the Rope: Origins RC|0.18.0|com.zeptolab.ctrorigins|3|257.69|aapt, aapt_resources, manifest
+Cut the Rope_ Origins RC v0.21.0.apk|Cut the Rope: Origins RC|0.21.0|com.zeptolab.ctrorigins|3|211.77|aapt, aapt_resources, manifest
+Cut the Rope_ Origins RC v10.17.0.ipa|Cut the Rope: Origins RC|10.17.0|com.zeptolab.cuttheropehd1|4|221.73|main_plist, plutil
+Cut the Rope_ Origins RC v10.18.0 (1).ipa|Cut the Rope: Origins RC|10.18.0|com.zeptolab.cuttheropehd1|4|219.88|main_plist, plutil
+Cut the Rope_ Origins RC v0.23.0.apk|Cut the Rope: Origins RC|0.23.0|com.zeptolab.ctrorigins|3|237.98|aapt, aapt_resources, manifest
+Cut the Rope_ Origins RC v10.18.0.ipa|Cut the Rope: Origins RC|10.18.0|com.zeptolab.cuttheropehd1|4|219.59|main_plist, plutil
+Cut the Rope_ Origins RC v10.22.0.ipa|Cut the Rope: Origins RC|10.22.0|com.zeptolab.cuttheropehd1|4|265.21|main_plist, plutil
+Cut the Rope_ Origins RC v10.21.0.ipa|Cut the Rope: Origins RC|10.21.0|com.zeptolab.cuttheropehd1|4|166.46|main_plist, plutil
+Cut the Rope_ Origins RC v0.22.0.apk|Cut the Rope: Origins RC|0.22.0|com.zeptolab.ctrorigins|3|290.62|aapt, aapt_resources, manifest
+Cut the Rope_ Origins RC v10.23.0.ipa|Cut the Rope: Origins RC|10.23.0|com.zeptolab.cuttheropehd1|4|183.46|main_plist, plutil
+Cut the Rope_ Origins RC v10.24.0.ipa|Cut the Rope: Origins RC|10.24.0|com.zeptolab.cuttheropehd1|4|185.63|main_plist, plutil
+Cut the Rope_ Origins RC v10.23.0 (1).ipa|Cut the Rope: Origins RC|10.23.0|com.zeptolab.cuttheropehd1|4|183.45|main_plist, plutil
+Cut the Rope_ Origins RC v10.25.0.ipa|Cut the Rope: Origins RC|10.25.0|com.zeptolab.cuttheropehd1|4|193.37|main_plist, plutil
+Cut the Rope_ Origins RC v0.9.0.apk|Cut the Rope: Origins RC|0.9.0|com.zeptolab.ctrorigins|3|175.35|aapt, aapt_resources, manifest
+Cut the Rope_ Origins RC v10.26.0.ipa|Cut the Rope: Origins RC|10.26.0|com.zeptolab.cuttheropehd1|4|201.3|main_plist, plutil
+Cut the Rope_ Origins RC v10.9.0.ipa|Cut the Rope: Origins RC|10.9.0|com.zeptolab.cuttheropehd1|4|176.44|main_plist, plutil
+Dice War TD v0.1.0.ipa|Dice War TD|0.1.0|com.zeptolab.rollthedice|4|29.68|main_plist, plutil, alt_plist_2, alt_plist_3
+draw-the-rope v1.0.0 (1).ipa|draw-the-rope|1.0.0|com.zeptolab.drawtherope|4|21.54|main_plist, plutil
+draw-the-rope v1.0.0.ipa|draw-the-rope|1.0.0|com.zeptolab.drawtherope|4|21.54|main_plist, plutil
+Dice War TD v0.1.0.apk|Dice War TD|0.1.0|com.zeptolab.rollthedice|3|57.1|aapt, aapt_resources, manifest
+DreamSchool v1.0.0.ipa|DreamSchool|1.0.0|com.zeptolab.zebtoblox|4|52.49|main_plist, plutil, alt_plist_2
+Emoji Shooter v1.0 (1).ipa|Emoji Shooter|1.0|com.zeptolab.emojishooter|4|38.42|main_plist, plutil, alt_plist_2
+Cut the Rope_ Origins v0.18.0.apk|Cut the Rope: Origins|0.18.0|com.zeptolab.ctrorigins|3|257.69|aapt, aapt_resources, manifest
+Cut the Rope_ Origins v0.17.0.apk|Cut the Rope: Origins|0.17.0|com.zeptolab.ctrorigins|3|260.41|aapt, aapt_resources, manifest
+Emoji Shooter v1.0.ipa|Emoji Shooter|1.0|com.zeptolab.emojishooter|4|38.42|main_plist, plutil, alt_plist_2
+Esher TD v0.0.1.ipa|Esher TD|0.0.1|com.zeptolab.escher|4|26.47|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Fantasy Miner v1.0.0 (1).ipa|Fantasy Miner|1.0.0|com.zeptolab.fantasy-miner|4|24.55|main_plist, plutil, alt_plist_2
+Emoji Shooter v1.0.apk|Emoji Shooter|1.0|com.pantelisdev.emojishooter|3|59.82|aapt, aapt_resources, manifest
+Esher TD v0.0.1.apk|Esher TD|0.0.1|com.zeptolab.escher|3|50.69|aapt, aapt_resources, manifest
+Fantasy Miner v1.0.0.ipa|Fantasy Miner|1.0.0|com.zeptolab.fantasy-miner|4|24.55|main_plist, plutil, alt_plist_2
+draw-the-rope v1.0.apk|draw-the-rope|1.0|com.zeptolab.drawtherope|3|21.26|aapt, aapt_resources, manifest
+Furniture Out v1.0.0.ipa|Furniture Out|1.0.0|com.zeptolab.furnitureout|4|37.58|main_plist, plutil, alt_plist_2
+Fantasy Miner v1.0.0.apk|Fantasy Miner|1.0.0|com.zeptolab.fantasyminer|3|38.36|aapt, aapt_resources, manifest
+Furniture Out v1.0.0.apk|Furniture Out|1.0.0|com.zeptolab.furnitureout|3|54.28|aapt, aapt_resources, manifest
+HappyCouchBurglars v1.0.0 (1).ipa|HappyCouchBurglars|1.0.0|com.zeptolab.happycouchburglars|4|72.9|main_plist, plutil
+HappyCouchBurglars v1.0.0 (2).ipa|HappyCouchBurglars|1.0.0|com.zeptolab.happycouchburglars|4|72.9|main_plist, plutil
+HappyCouchBurglars v1.0.0 (1).apk|HappyCouchBurglars|1.0.0|com.zeptolab.happycouchburglars|3|139.41|aapt, aapt_resources, manifest
+HappyCouchBurglars v1.0.0.ipa|HappyCouchBurglars|1.0.0|com.zeptolab.happycouchburglars|4|72.9|main_plist, plutil
+Idle Art v1.0.0 (1).ipa|Idle Art|1.0.0|com.zeptolab.idle-art|4|42.49|main_plist, plutil, alt_plist_2
+Idle Art v1.0.0 (2).ipa|Idle Art|1.0.0|com.zeptolab.idle-art|4|49.67|main_plist, plutil, alt_plist_2
+Idle Art v1.0.0 (3).ipa|Idle Art|1.0.0|com.zeptolab.idle-art|4|52.92|main_plist, plutil, alt_plist_2
+HappyCouchBurglars v1.0.0.apk|HappyCouchBurglars|1.0.0|com.zeptolab.happycouchburglars|3|139.41|aapt, aapt_resources, manifest
+Idle Art v1.0.0 (4).ipa|Idle Art|1.0.0|com.zeptolab.idle-art|4|53.01|main_plist, plutil, alt_plist_2
+Fortress Pop v1.0.0.apk|Fortress Pop|1.0.0|com.zeptolab.fortresspop|3|89.65|aapt, aapt_resources, manifest
+Idle Art v1.0.0.apk|Idle Art|1.0.0|com.zeptolab.idleart|3|137.32|aapt, aapt_resources, manifest
+Idle Hunters 2 v1.0.4.apk|Idle Hunters 2|1.0.4|com.zeptolab.idlerpg.bow|3|59.97|aapt, aapt_resources, manifest
+Idle Art v1.0.0.ipa|Idle Art|1.0.0|com.zeptolab.idle-art|4|40.48|main_plist, plutil, alt_plist_2
+Idle Hunters 1 v1.1.2.apk|Idle Hunters 1|1.1.2|com.zeptolab.idlerpg|3|59.96|aapt, aapt_resources, manifest
+Idle Hunters 1 v1.1.2.ipa|Idle Hunters 1|1.1.2|com.zeptolab.idlerpg|4|35.17|main_plist, plutil
+Idle Racing v1.0.0 (1).ipa|Idle Racing|1.0.0|com.zeptolab.idle-racing|4|47.94|main_plist, plutil, alt_plist_2
+Idle Hunters 2 v1.0.4.ipa|Idle Hunters 2|1.0.4|com.zeptolab.idlerpg.bow|4|35.17|main_plist, plutil
+Idle Racing v1.0.0 (2).ipa|Idle Racing|1.0.0|com.zeptolab.idle-racing|4|47.94|main_plist, plutil, alt_plist_2
+Idle Racing v1.0.0 (3).ipa|Idle Racing|1.0.0|com.zeptolab.idle-racing|4|47.94|main_plist, plutil, alt_plist_2
+Idle Racing v1.0.0 (1).apk|Idle Racing|1.0.0|com.zeptolab.idleracing|3|42.17|aapt, aapt_resources, manifest
+Idle Racing v1.0.0.ipa|Idle Racing|1.0.0|com.zeptolab.idle-racing|4|47.89|main_plist, plutil, alt_plist_2
+Idle Racing v1.0.0.apk|Idle Racing|1.0.0|com.zeptolab.idleracing|3|42.11|aapt, aapt_resources, manifest
+King of Sticks v0.1.0.ipa|King of Sticks|0.1.0|com.zeptolab.kingofsticks|4|23.44|main_plist, plutil
+King of Sticks v0.1.0.apk|King of Sticks|0.1.0|com.zeptolab.kingofsticks|3|44.44|aapt, aapt_resources, manifest
+Last Walker v0.1.0.ipa|Last Walker|0.1.0|com.zeptolab.walkermerge|4|20.51|main_plist, plutil, alt_plist_2
+Last Walker v0.1.0.apk|Last Walker|0.1.0|com.zeptolab.walkermerge|3|38.66|aapt, aapt_resources, manifest
+Idle Tiny Hunters v0.2.0.apk|Idle Tiny Hunters|0.2.0|com.zeptolab.idlerpg|3|90.41|aapt, aapt_resources, manifest
+mergelife v0.0.1.ipa|mergelife|0.0.1|com.zeptolab.mergelife|4|25.15|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Necro Horde v0.1.0.ipa|Necro Horde|0.1.0|com.zeptolab.necrohorde|4|30.84|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Necro Horde v0.1.1.apk|Necro Horde|0.1.1|com.zeptolab.necrohorde|3|70.08|aapt, aapt_resources, manifest
+mergelife v0.0.1.apk|mergelife|0.0.1|com.zeptolab.mergelife|3|48.58|aapt, aapt_resources, manifest
+Necro Horde v0.1.0.apk|Necro Horde|0.1.0|com.zeptolab.necrohorde|3|50.64|aapt, aapt_resources, manifest
+Motor Clash v0.1.0.apk|Motor Clash|0.1.0|com.zeptolab.motorclash|3|58.13|aapt, aapt_resources, manifest
+Necro Horde v0.1.1.ipa|Necro Horde|0.1.1|com.zeptolab.necrohorde|4|27.03|main_plist, plutil, alt_plist_2, alt_plist_3
+Noodle Out v0.1.0.apk|Noodle Out|0.1.0|com.zeptolab.dragmeout|3|88.04|aapt, aapt_resources, manifest
+OC Arena v0.5.23.apk|OC Arena|0.5.23|com.pantelisdev.ocarena|3|123.71|aapt, aapt_resources, manifest
+OmNom Verse v1.0.3 (1).ipa|OmNom Verse|1.0.3|com.zeptolab.omnomverse|4|25.54|main_plist, plutil, alt_plist_2
+Om Nom Run 2 v3.0.18.apk|Om Nom Run 2|3.0.18|com.zeptolab.OmNomRun2.parkour|3|88.65|aapt, aapt_resources, manifest
+OmNomFarm v0.1.11.apk|OmNomFarm|0.1.11|com.DefaultCompany.OmNomFarm|3|72.06|aapt, aapt_resources, manifest
+OmNomMagicCandies v1.0.ipa|OmNomMagicCandies|1.0|com.zeptolab.OmNomMagicCandies|4|185.77|main_plist, plutil
+OmNom Verse v1.0.3.ipa|OmNom Verse|1.0.3|com.zeptolab.omnomverse|4|25.54|main_plist, plutil, alt_plist_2
+OnSweetDreams v1.0.ipa|OnSweetDreams|1.0|com.zeptolab.OnSweetDreams|4|95.16|main_plist, plutil
+OmNomMagicCandies v1.0.apk|OmNomMagicCandies|1.0|com.zeptolab.OmNomMagicCandies|3|200.6|aapt, aapt_resources, manifest
+OnSweetDreams v1.0.apk|OnSweetDreams|1.0|com.zeptodev.onsweetdreams|3|96.69|aapt, aapt_resources, manifest
+Overcrowded Dungeons v1.0.0 (2).ipa|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowded-dungeons|4|51.5|main_plist, plutil
+Overcrowded Dungeons v1.0.0 (1).ipa|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowded-dungeons|4|51.51|main_plist, plutil
+Overcrowded Dungeons v1.0.0 (4).ipa|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowded-dungeons|4|51.5|main_plist, plutil
+Overcrowded Dungeons v1.0.0 (3).ipa|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowded-dungeons|4|51.5|main_plist, plutil
+Overcrowded Dungeons v1.0.0.ipa|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowded-dungeons|4|51.51|main_plist, plutil
+Overcrowded Dungeons v1.0.0 (1).apk|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowdeddungeons|3|42.92|aapt, aapt_resources, manifest
+Neon Merge Guards v0.1.1.apk|Neon Merge Guards|0.1.1|com.zeptolab.circledefender|3|105.88|aapt, aapt_resources, manifest
+Overcrowded Dungeons v1.0.0.apk|Overcrowded Dungeons|1.0.0|com.zeptolab.overcrowdeddungeons|3|42.92|aapt, aapt_resources, manifest
+Place Your People v1.0.0 (1).apk|Place Your People|1.0.0|com.zeptolab.placeyourpeople|3|167.46|aapt, aapt_resources, manifest
+Place Your People v1.0.0 (1).ipa|Place Your People|1.0.0|com.zeptolab.placeyourpeople|4|94.84|main_plist, plutil
+Place Your People v1.0.0 (2).ipa|Place Your People|1.0.0|com.zeptolab.placeyourpeople|4|96.96|main_plist, plutil
+Place Your People v1.0.0 (3).ipa|Place Your People|1.0.0|com.zeptolab.placeyourpeople|4|97.01|main_plist, plutil
+Place Your People v1.0.0 (2).apk|Place Your People|1.0.0|com.zeptolab.placeyourpeople|3|167.48|aapt, aapt_resources, manifest
+Overcrowded_ Airplane v0.9.2.apk|Overcrowded: Airplane|0.9.2|com.zeptolab.idleplane|3|136.76|aapt, aapt_resources, manifest
+Place Your People v1.0.0.apk|Place Your People|1.0.0|com.zeptolab.placeyourpeople|3|157.44|aapt, aapt_resources, manifest
+Place Your People v1.0.0.ipa|Place Your People|1.0.0|com.zeptolab.placeyourpeople|4|92.53|main_plist, plutil
+RollingOut v1.0.0.apk|RollingOut|1.0.0|com.zeptolab.rollingout|3|122.45|aapt, aapt_resources, manifest
+RollingOut v1.0.0.ipa|RollingOut|1.0.0|com.zeptolab.rollingout|4|62.43|main_plist, plutil, alt_plist_2, alt_plist_3
+Snackdown v1.0 (1).ipa|Snackdown|1.0|com.zeptolab.snackdown|4|36.02|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Snackdown v1.0.ipa|Snackdown|1.0|com.zeptolab.snackdown|4|36.02|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Slide Fortress v0.1.0.apk|Slide Fortress|0.1.0|com.zeptolab.slidefortress|3|54.34|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (1).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|63.97|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (1).apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|37.0|aapt, aapt_resources, manifest
+Snackdown v1.0.apk|Snackdown|1.0|com.zeptolab.snackdown|3|58.59|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (10).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|31.87|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (2).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|63.97|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (3).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|37.84|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (2).apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|36.95|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (3).apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|46.49|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (4).apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|52.98|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (4).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|30.81|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (5).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|25.4|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (5).apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|52.98|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (6).apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|52.98|aapt, aapt_resources, manifest
+Space Litter v1.0.0 (6).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|25.4|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (8).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|31.87|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (7).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|31.87|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0 (9).ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|31.87|main_plist, plutil, alt_plist_2
+Space Litter v1.0.0.apk|Space Litter|1.0.0|com.zeptolab.spacelitter|3|50.92|aapt, aapt_resources, manifest
+Space Litter v1.0.0.ipa|Space Litter|1.0.0|com.zeptolab.space-litter|4|63.65|main_plist, plutil, alt_plist_2
+Steel Revolt v0.1.ipa|Steel Revolt|0.1|com.zeptolab.steel-revolt|4|116.61|main_plist, plutil, alt_plist_2, alt_plist_3
+Stagecoach Caravan Defender v0.0.1.ipa|Stagecoach Caravan Defender|0.0.1|com.zeptolab.caravandefender|4|37.4|main_plist, plutil, alt_plist_2
+Steel Revolt v1.0.apk|Steel Revolt|1.0|com.pantelisdev.betterthanyou|3|106.03|aapt, aapt_resources, manifest
+Stagecoach Caravan Defender v0.0.1.apk|Stagecoach Caravan Defender|0.0.1|com.zeptolab.caravandefender|3|48.41|aapt, aapt_resources, manifest
+Steel Revolt v1.0.ipa|Steel Revolt|1.0|com.zeptolab.betterthanyou|4|54.7|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Steel Revolt v1.12.ipa|Steel Revolt|1.12|com.zeptolab.steel-revolt|4|152.07|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Steel Revolt v1.15.ipa|Steel Revolt|1.15|com.zeptolab.steel-revolt|4|155.94|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Steel Revolt v1.3.apk|Steel Revolt|1.3|com.harrisleodev.steelrevolt|3|107.08|aapt, aapt_resources, manifest
+Steel Revolt v1.12.apk|Steel Revolt|1.12|com.pantelisdev.steelrevolt|3|188.42|aapt, aapt_resources, manifest
+Steel Revolt v1.5.apk|Steel Revolt|1.5|com.pantelisdev.steelrevolt|3|241.51|aapt, aapt_resources, manifest
+Steel Revolt v1.7.apk|Steel Revolt|1.7|com.pantelisdev.steelrevolt|3|241.98|aapt, aapt_resources, manifest
+Steel Revolt v1.7.ipa|Steel Revolt|1.7|com.zeptolab.steel-revolt|4|117.06|main_plist, plutil, alt_plist_2, alt_plist_3
+Steel Revolt v1.15.apk|Steel Revolt|1.15|com.pantelisdev.steelrevolt|3|308.53|aapt, aapt_resources, manifest
+Steel Revolt v1.8.apk|Steel Revolt|1.8|com.pantelisdev.steelrevolt|3|247.78|aapt, aapt_resources, manifest
+Steel Revolt v1.8.ipa|Steel Revolt|1.8|com.zeptolab.steel-revolt|4|126.26|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Steel Revolt v1.9.ipa|Steel Revolt|1.9|com.zeptolab.steel-revolt|4|127.82|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Steel Revolt v1.9.apk|Steel Revolt|1.9|com.pantelisdev.steelrevolt|3|250.38|aapt, aapt_resources, manifest
+SteelRevolt v2.0.0.ipa|SteelRevolt|2.0.0|com.zeptolab.steelrevoltremastered|4|72.19|main_plist, plutil, alt_plist_2, alt_plist_3
+Stronghold Defense v0.0.1.apk|Stronghold Defense|0.0.1|com.zeptolab.stronghold|3|54.28|aapt, aapt_resources, manifest
+Stronghold Defense v0.0.1.ipa|Stronghold Defense|0.0.1|com.zeptolab.stronghold|4|31.06|main_plist, plutil, alt_plist_2, alt_plist_3
+SteelRevolt v2.0.0.apk|SteelRevolt|2.0.0|com.zeptolab.steelrevoltremastered|3|102.31|aapt, aapt_resources, manifest
+Stronghold v0.0.1.ipa|Stronghold|0.0.1|com.zeptolab.stronghold|4|30.81|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Sushi Merge Wasabi Rush v0.1.0.apk|Sushi Merge Wasabi Rush|0.1.0|com.zeptolab.sushimerge|3|85.79|aapt, aapt_resources, manifest
+Swarmhold v1.4.ipa|Swarmhold|1.4|com.zeptolab.shooter2d|4|47.33|main_plist, plutil, alt_plist_2, alt_plist_3, alt_plist_4
+Stronghold v0.0.1.apk|Stronghold|0.0.1|com.zeptolab.stronghold|3|54.45|aapt, aapt_resources, manifest
+Swarmhold v1.4.apk|Swarmhold|1.4|com.pantelisdev.swarmhold|3|69.29|aapt, aapt_resources, manifest
+SweetHarvest v1.0.apk|SweetHarvest|1.0|com.zeptolab.sweetharvest|3|46.47|aapt, aapt_resources, manifest
+They are almost billion v0.0.1.apk|They are almost billion|0.0.1|com.zeptolab.billions|3|57.75|aapt, aapt_resources, manifest
+Turn To Orange v1.0.0.ipa|Turn To Orange|1.0.0|com.zeptolab.turntoorange|4|63.08|main_plist, plutil
+Turn To Orange v1.0.0.apk|Turn To Orange|1.0.0|com.zeptolab.turntoorange|3|120.29|aapt, aapt_resources, manifest
+Tile Tint v0.1.0.apk|Tile Tint|0.1.0|com.colorful.ornament|3|99.17|aapt, aapt_resources, manifest
+Volcano Pop v0.1.0.apk|Volcano Pop|0.1.0|com.zeptolab.volcanopop|3|40.73|aapt, aapt_resources, manifest
+Volcano Pop v0.1.0.ipa|Volcano Pop|0.1.0|com.zeptolab.volcanopop|4|21.19|main_plist, plutil, alt_plist_2, alt_plist_3
+Tiny Hunters v3.11.0.apk|Tiny Hunters|3.11.0|com.pantelisdev.hunters|3|167.47|aapt, aapt_resources, manifest
+Wicked Woods v1.0.ipa|Wicked Woods|1.0|com.zeptolab.ww|4|13.01|main_plist, plutil
+Westward Rancher v0.0.1.ipa|Westward Rancher|0.0.1|com.zeptolab.wr|4|37.74|main_plist, plutil, alt_plist_2, alt_plist_3
+Westward Rancher v0.0.1.apk|Westward Rancher|0.0.1|com.zeptolab.wr|3|68.62|aapt, aapt_resources, manifest
+World of Tower Defence v1.0.0 (1).ipa|World of Tower Defence|1.0.0|com.zeptolab.world-of-tower-defence|4|30.78|main_plist, plutil
+Wobble Towers v0.1.0.ipa|Wobble Towers|0.1.0|com.zeptolab.wobbletowers|4|42.17|main_plist, plutil, alt_plist_2, alt_plist_3
+World of Tower Defence v1.0.0 (2).ipa|World of Tower Defence|1.0.0|com.zeptolab.world-of-tower-defence|4|30.78|main_plist, plutil
+World of Tower Defence v1.0.0 (3).ipa|World of Tower Defence|1.0.0|com.zeptolab.world-of-tower-defence|4|30.78|main_plist, plutil
+World of Tower Defence v1.0.0.ipa|World of Tower Defence|1.0.0|com.zeptolab.world-of-tower-defence|4|50.82|main_plist, plutil
+World of Tower Defence v1.0.0 (1).apk|World of Tower Defence|1.0.0|com.zeptolab.worldoftowerdefence|3|42.49|aapt, aapt_resources, manifest
+Wobble Towers v0.1.0.apk|Wobble Towers|0.1.0|com.zeptolab.wobbletowers|3|72.31|aapt, aapt_resources, manifest
+World of Tower Defence v1.0.0.apk|World of Tower Defence|1.0.0|com.zeptolab.worldoftowerdefence|3|101.29|aapt, aapt_resources, manifest
+Zombillion Spin RT v0.0.1.apk|Zombillion Spin RT|0.0.1|com.zeptolab.billionsrealtime|3|45.83|aapt, aapt_resources, manifest
+Zombillion Spin v0.0.1.apk|Zombillion Spin|0.0.1|com.zeptolab.billions|3|57.75|aapt, aapt_resources, manifest
+Zombillion Spin RT v0.0.1.ipa|Zombillion Spin RT|0.0.1|com.zeptolab.billionsrealtime|4|33.01|main_plist, plutil, alt_plist_2, alt_plist_3
+Zombillion Spin v0.0.1.ipa|Zombillion Spin|0.0.1|com.zeptolab.billions|4|32.91|main_plist, plutil, alt_plist_2, alt_plist_3
